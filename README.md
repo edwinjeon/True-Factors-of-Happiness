@@ -67,11 +67,11 @@ The dashboard is organized into **3 Parts**:
 
 - `True_Factors_of_Happiness.twbx` - Tableau workbook (fully interactive)
 - `merged_happiness_gdp_2024.csv` - Cleaned dataset of 2024 GDP + WHR scores
-- '2011-2024_GDP_Happiness' - Cleaned dataset of 2011-2024 GDP + WHR scores
-- 'ESS11_Cleaned_Final' - 11 variables needed for the project from ESS11
-- 'Extraversion_vs_Happiness_By_Country' - Extraversion and happiness scores by country
+- '2011-2024_GDP_Happiness.csv' - Cleaned dataset of 2011-2024 GDP + WHR scores
+- 'ESS11_Cleaned_Final.csv' - 11 variables needed for the project from ESS11
+- 'Extraversion_vs_Happiness_By_Country.csv' - Extraversion and happiness scores by country
 - `images/` - Static visuals of all dashboards
-- README.md
+- 'README.md'
 
 ---
 
