@@ -1,5 +1,4 @@
 # 📊 True Factors of Happiness – Tableau Visualization Project
-**By Weongyu Jeon**  
 
 What truly makes people happy? Is it income, education, status — or something deeper?  
 This Tableau-based project explores the **real drivers of happiness**, challenging common assumptions through **economic**, **psychological**, and **evolutionary** perspectives.
