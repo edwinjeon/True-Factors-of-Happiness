@@ -1,7 +1,7 @@
 # 📊 True Factors of Happiness – Tableau Visualization Project
 
 What truly makes people happy? Is it income, education, status — or something deeper?  
-This Tableau-based project explores the **real drivers of happiness**, challenging common assumptions through **economic**, **psychological**, and **evolutionary** perspectives.
+This Tableau-based project explores the **real drivers of happiness**, challenging common assumptions of economic factors through **psychological** and **evolutionary** perspectives.
 
 ---
 
