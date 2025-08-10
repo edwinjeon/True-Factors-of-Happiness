@@ -85,12 +85,12 @@ This dashboard examines:
 
 ## 📷 Dashboard Gallery
 
-![](images/Page 1)
-![](images/Page 2)
-![](images/Page 3)
-![](images/Page 4)
-![](images/Page 5)
-![](images/Page 6)
+![](images/Page 1.png)
+![](images/Page 2.png)
+![](images/Page 3.png)
+![](images/Page 4.png)
+![](images/Page 5.png)
+![](images/Page 6.png)
 
 --- 
 
