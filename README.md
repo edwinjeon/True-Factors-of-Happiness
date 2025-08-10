@@ -33,20 +33,18 @@ True_Factors_of_Happiness/
 - `2011-2024_GDP_Happiness.csv` — Historical GDP & WHR data
 - `ESS11_Cleaned_Final.csv` — Key ESS11 survey variables
 - `Extraversion_vs_Happiness_By_Country.csv` — Personality & happiness data
-- `images/` — Static exports of all dashboards
 
 ---
 
 ## 🧠 Project Background
-While global reports often tie happiness to **GDP per capita**, **Evolutionary Psychology (EP)** suggests humans evolved to prioritize:
+While global reports often tie happiness to **Money**, **Evolutionary Psychology (EP)** suggests humans evolved to prioritize:
 - **Social connection**
 - **Purposeful roles**
 - **Individual autonomy and respect**
 
 This dashboard examines:
-- **Cross-country economic indicators**
-- **Survey data from ESS Round 11**
-- **Cultural and personality metrics** (e.g., extraversion, trust)
+- **Cross-country economic indicators**- GDP per Capita data
+- **Survey data from ESS Round 11**- Cultural and personality metrics (e.g., extraversion, trust)
 
 ---
 
@@ -54,12 +52,9 @@ This dashboard examines:
 1. **Data Collection & Cleaning**
    - Merged GDP & World Happiness Report data (2011–2024)
    - Extracted 11 key variables from ESS11
-   - Added Big Five extraversion scores by country
 2. **Visualization in Tableau**
-   - Built 3 dashboard sections for different analytical lenses
-   - Applied consistent color schemes, filters, and annotations for clarity
-3. **Analysis Framework**
-   - Compared economic correlations vs. social/psychological correlations
+   - Built 6 dashboard for 3 sections with different analytical lenses
+   - Compared economic correlations vs. social/psychological correlations to happiness
    - Interpreted patterns through an Evolutionary Psychology lens
 
 ---
@@ -67,7 +62,7 @@ This dashboard examines:
 ## 📊 Dashboard Sections
 ### **Part 1: Money and Happiness**
 - Global trend: Higher GDP ↔ higher happiness  
-- But time-series data (USA, India, Panama) shows happiness doesn’t always follow income growth.
+- But time-series data (USA, India, Panama) shows happiness doesn’t always increase alongside income growth.
 
 ### **Part 2: Perception and Meaning**
 - **Income feeling** (perceived comfort) matters more than actual income.
