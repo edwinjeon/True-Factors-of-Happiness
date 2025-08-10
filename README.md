@@ -24,6 +24,7 @@ True_Factors_of_Happiness/
 │   ├── Extraversion_vs_Happiness_By_Country.csv
 │
 ├── images/
+├── True_Factors_of_Happiness.pdf
 ├── True_Factors_of_Happiness.twbx
 └── README.md
 ```
@@ -80,8 +81,18 @@ This dashboard examines:
 ✅ Feeling valued, connected, and trusted drives stronger happiness gains  
 ✅ Cultural and social factors match our evolved psychological needs better than pure wealth
 
-
 ---
+
+## 📷 Dashboard Gallery
+
+![](images/Page 1)
+![](images/Page 2)
+![](images/Page 3)
+![](images/Page 4)
+![](images/Page 5)
+![](images/Page 6)
+
+--- 
 
 ## 🔗 Links
 - [Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/weongyu.jeon/viz/TrueFactorsofHappiness/Page1)  
