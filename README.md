@@ -1,19 +1,19 @@
-# 📊 True Factors of Happiness – Tableau Visualization Project
+# True Factors of Happiness
 
 What truly makes people happy? Is it income, education, status — or something deeper?  
-This Tableau-based project explores the **real drivers of happiness**, challenging common assumptions of economic factors through **psychological** and **evolutionary** perspectives.
+This project explores the **real drivers of happiness**, challenging common assumptions of economic factors through **psychological** and **evolutionary** perspectives.
 
 ---
 
-## 📌 Project Highlights
-- **3-part dashboard** exploring global, personal, and cultural drivers of happiness.
+## Project Overview
+- Exploring and comparing global, personal, and cultural factors to happiness.
+- Uses **Evolutionary Psychology** as a motivation & framework to interpret findings.
 - Integrates **GDP, survey data, and personality metrics** from multiple international sources.
-- Uses **Evolutionary Psychology** as a framework to interpret findings.
-- Fully interactive on [Tableau Public](https://public.tableau.com/app/profile/weongyu.jeon/viz/TrueFactorsofHappiness/Page1).
+- Fully interactive on [Tableau Link](https://public.tableau.com/app/profile/weongyu.jeon/viz/TrueFactorsofHappiness/Page1).
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 True_Factors_of_Happiness/
 │
@@ -37,7 +37,7 @@ True_Factors_of_Happiness/
 
 ---
 
-## 🧠 Project Background
+## Project Background
 While global reports often tie happiness to **Money**, **Evolutionary Psychology (EP)** suggests humans evolved to prioritize:
 - **Social connection**
 - **Purposeful roles**
@@ -49,21 +49,20 @@ This dashboard examines:
 
 ---
 
-## 🛠️ Methodology
+## Methodology
 1. **Data Collection & Cleaning**
    - Merged GDP & World Happiness Report data (2011–2024)
-   - Extracted 11 key variables from ESS11
+   - Extracted 11 key variables from European Social Survey 11 (ESS11)
 2. **Visualization in Tableau**
-   - Built 6 dashboard for 3 sections with different analytical lenses
+   - Built 3 sections with different analytical lenses
    - Compared economic correlations vs. social/psychological correlations to happiness
-   - Interpreted patterns through an Evolutionary Psychology lens
 
 ---
 
-## 📊 Dashboard Sections
+## Dashboard Sections
 ### **Part 1: Money and Happiness**
 - Global trend: Higher GDP ↔ higher happiness  
-- But time-series data (USA, India, Panama) shows happiness doesn’t always increase alongside income growth.
+- But time-series data (USA, India, Panama) shows happiness doesn’t always increase alongside economic growth.
 
 ### **Part 2: Perception and Meaning**
 - **Income feeling** (perceived comfort) matters more than actual income.
@@ -76,14 +75,14 @@ This dashboard examines:
 
 ---
 
-## 💡 Key Takeaways
-✅ Income and education help — but only up to a point  
+## Key Takeaways
+✅ Income and education help gaining happiness, but only up to a point  
 ✅ Feeling valued, connected, and trusted drives stronger happiness gains  
-✅ Cultural and social factors match our evolved psychological needs better than pure wealth
+✅ Cultural and social factors match our evolved needs better than pure wealth
 
 ---
 
-## 📷 Dashboard Gallery
+## Dashboard Gallery
 
 **Page 1**
 ![](images/Page1.png)
